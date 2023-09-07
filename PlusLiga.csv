@@ -1,0 +1,280 @@
+Team1,Team2,Time,Points1,Points2,ServeEff1,ServeEff2,PosPercent1,PosPercent2,KillPercent1,KillPercent2,EffPercent1,EffPercent2,Score1,Score2
+Asseco Resovia Rzeszów,PSG Stal Nysa,"07.04.2023, 17:30",57,40,-5%,-10%,43%,29%,58%,47%,36%,20%,3,0
+Asseco Resovia Rzeszów,PSG Stal Nysa,"08.04.2023, 17:30",50,41,6%,-22%,45%,32%,53%,45%,40%,24%,3,0
+PSG Stal Nysa,Asseco Resovia Rzeszów,"14.04.2023, 17:30",54,77,-8%,-7%,31%,37%,53%,69%,37%,63%,1,3
+Aluron CMC Warta Zawiercie,Indykpol AZS Olsztyn,"06.04.2023, 17:30",51,41,-1%,-21%,43%,45%,50%,43%,41%,18%,3,0
+Aluron CMC Warta Zawiercie,Indykpol AZS Olsztyn,"07.04.2023, 20:30",48,59,6%,-14%,29%,45%,52%,52%,39%,39%,3,0
+Indykpol AZS Olsztyn,Aluron CMC Warta Zawiercie,"15.04.2023, 14:45",80,62,-8%,-4%,31%,43%,57%,46%,45%,28%,3,2
+Indykpol AZS Olsztyn,Aluron CMC Warta Zawiercie,"16.04.2023, 14:45",58,39,1%,-10%,50%,44%,50%,43%,31%,26%,3,0
+Aluron CMC Warta Zawiercie,Indykpol AZS Olsztyn,"19.04.2023, 17:30",73,59,-11%,-10%,52%,33%,49%,42%,32%,23%,3,1
+Jastrzębski Węgiel,Trefl Gdańsk,"08.04.2023, 14:45",49,37,6%,-21%,55%,46%,53%,42%,37%,30%,3,0
+Jastrzębski Węgiel,Trefl Gdańsk,"09.04.2023, 17:30",52,41,1%,-14%,38%,57%,52%,35%,40%,13%,3,0
+Trefl Gdańsk,Jastrzębski Węgiel,"12.04.2023, 20:30",73,68,-6%,5%,37%,36%,51%,55%,35%,43%,1,3
+Grupa Azoty ZAKSA Kędzierzyn-Koźle,Projekt Warszawa,"09.04.2023, 14:45",74,76,-4%,-2%,36%,43%,51%,44%,35%,25%,3,2
+Grupa Azoty ZAKSA Kędzierzyn-Koźle,Projekt Warszawa,"10.04.2023, 14:45",73,76,-17%,-3%,35%,51%,44%,44%,26%,26%,3,2
+Projekt Warszawa,Grupa Azoty ZAKSA Kędzierzyn-Koźle,"14.04.2023, 20:30",73,73,-13%,-8%,35%,54%,51%,46%,38%,29%,3,2
+Projekt Warszawa,Grupa Azoty ZAKSA Kędzierzyn-Koźle,"15.04.2023, 20:30",65,67,-14%,-11%,46%,37%,49%,49%,31%,35%,1,3
+Asseco Resovia Rzeszów,Grupa Azoty ZAKSA Kędzierzyn-Koźle,"22.04.2023, 14:45",71,65,-8%,-4%,43%,36%,50%,45%,28%,26%,2,3
+Asseco Resovia Rzeszów,Grupa Azoty ZAKSA Kędzierzyn-Koźle,"23.04.2023, 14:45",67,75,-6%,5%,34%,37%,57%,56%,41%,41%,1,3
+Grupa Azoty ZAKSA Kędzierzyn-Koźle,Asseco Resovia Rzeszów,"26.04.2023, 17:30",71,74,-10%,-14%,46%,37%,56%,55%,42%,38%,3,2
+Aluron CMC Warta Zawiercie,Jastrzębski Węgiel,"22.04.2023, 20:30",52,68,-10%,-10%,39%,32%,43%,52%,23%,44%,1,3
+Aluron CMC Warta Zawiercie,Jastrzębski Węgiel,"23.04.2023, 20:30",77,84,-15%,-11%,49%,48%,47%,53%,31%,37%,2,3
+Jastrzębski Węgiel,Aluron CMC Warta Zawiercie,"26.04.2023, 20:30",56,32,0%,-11%,47%,40%,58%,38%,45%,14%,3,0
+Cuprum Lubin,Barkom Każany Lwów,"16.04.2023, 20:30",52,52,-14%,-1%,46%,40%,47%,55%,28%,41%,0,3
+Barkom Każany Lwów,Cuprum Lubin,"17.04.2023, 17:30",75,69,-9%,-11%,44%,55%,55%,50%,43%,31%,3,2
+GKS Katowice,PGE Skra Bełchatów,"13.04.2023, 20:30",70,63,-9%,-20%,51%,49%,58%,54%,46%,44%,3,1
+PGE Skra Bełchatów,GKS Katowice,"18.04.2023, 17:30",54,44,2%,-15%,53%,50%,67%,57%,54%,40%,3,0
+Ślepsk Malow Suwałki,LUK  Lublin,"16.04.2023, 17:30",69,64,-10%,-15%,48%,46%,61%,53%,49%,39%,3,1
+LUK  Lublin,Ślepsk Malow Suwałki,"18.04.2023, 20:30",36,63,-3%,-6%,42%,48%,45%,65%,24%,50%,0,3
+PSG Stal Nysa,Indykpol AZS Olsztyn,"21.04.2023, 20:30",75,55,-7%,-9%,48%,44%,51%,46%,38%,29%,3,1
+Indykpol AZS Olsztyn,PSG Stal Nysa,"24.04.2023, 17:30",37,48,-18%,6%,45%,50%,35%,50%,6%,32%,0,3
+Trefl Gdańsk,Projekt Warszawa,"24.04.2023, 20:30",67,67,-7%,-6%,47%,38%,46%,53%,28%,36%,1,3
+Projekt Warszawa,Trefl Gdańsk,"28.04.2023, 20:30",83,85,-7%,-6%,33%,37%,59%,47%,47%,28%,2,3
+Asseco Resovia Rzeszów,Aluron CMC Warta Zawiercie,"02.05.2023, 20:30",71,78,-13%,-5%,39%,40%,52%,53%,41%,42%,2,3
+Aluron CMC Warta Zawiercie,Asseco Resovia Rzeszów,"06.05.2023, 17:30",66,52,-18%,-11%,46%,41%,52%,52%,34%,36%,1,3
+Asseco Resovia Rzeszów,Aluron CMC Warta Zawiercie,"09.05.2023, 20:30",56,47,-5%,-16%,48%,32%,60%,45%,46%,29%,3,0
+Aluron CMC Warta Zawiercie,Asseco Resovia Rzeszów,"13.05.2023, 14:45",78,68,-2%,-15%,36%,35%,51%,48%,32%,36%,3,2
+Asseco Resovia Rzeszów,Aluron CMC Warta Zawiercie,"16.05.2023, 20:30",50,34,-12%,-27%,35%,46%,54%,45%,46%,23%,3,0
+Jastrzębski Węgiel,Grupa Azoty ZAKSA Kędzierzyn-Koźle,"03.05.2023, 20:30",50,41,-8%,-18%,56%,50%,55%,52%,42%,33%,3,0
+Grupa Azoty ZAKSA Kędzierzyn-Koźle,Jastrzębski Węgiel,"06.05.2023, 14:45",61,75,-13%,0%,41%,42%,53%,56%,41%,45%,1,3
+Jastrzębski Węgiel,Grupa Azoty ZAKSA Kędzierzyn-Koźle,"10.05.2023, 20:30",54,33,0%,-19%,59%,47%,59%,40%,53%,11%,3,0
+Indykpol AZS Olsztyn,Grupa Azoty ZAKSA Kędzierzyn-Koźle,"01.10.2022, 14:45",60,69,-13%,2%,51%,45%,47%,51%,26%,35%,1,3
+Jastrzębski Węgiel,GKS Katowice,"30.09.2022, 17:30",51,48,-7%,-11%,55%,50%,48%,47%,43%,34%,3,0
+LUK  Lublin,Cerrad Enea Czarni Radom,"01.10.2022, 20:30",76,82,-9%,-5%,49%,47%,54%,49%,40%,33%,2,3
+Aluron CMC Warta Zawiercie,PGE Skra Bełchatów,"02.10.2022, 14:45",66,71,-16%,-8%,35%,32%,56%,54%,40%,37%,3,2
+BBTS Bielsko-Biała,Cuprum Lubin,"03.10.2022, 17:30",63,80,-7%,-8%,40%,45%,49%,53%,34%,39%,1,3
+PSG Stal Nysa,Ślepsk Malow Suwałki,"02.10.2022, 20:30",68,62,-12%,-7%,31%,42%,53%,49%,44%,34%,3,1
+Trefl Gdańsk,Barkom Każany Lwów,"02.10.2022, 17:30",59,38,-6%,-17%,46%,36%,60%,42%,48%,32%,3,0
+Asseco Resovia Rzeszów,Projekt Warszawa,"01.10.2022, 17:30",52,32,-8%,-20%,50%,36%,52%,34%,34%,13%,3,0
+GKS Katowice,Projekt Warszawa,"04.10.2022, 16:30",67,55,-6%,-6%,44%,47%,51%,45%,37%,28%,3,1
+Barkom Każany Lwów,Asseco Resovia Rzeszów,"05.10.2022, 18:45",40,52,-1%,-6%,28%,38%,46%,64%,26%,54%,0,3
+Ślepsk Malow Suwałki,Trefl Gdańsk,"06.10.2022, 21:00",68,78,-14%,-6%,48%,64%,48%,51%,37%,33%,3,1
+Cuprum Lubin,PSG Stal Nysa,"06.10.2022, 18:45",35,58,-16%,2%,38%,53%,38%,59%,18%,46%,0,3
+PGE Skra Bełchatów,BBTS Bielsko-Biała,"05.10.2022, 21:00",52,49,-2%,-13%,54%,46%,57%,47%,49%,27%,3,0
+Cerrad Enea Czarni Radom,Aluron CMC Warta Zawiercie,"05.10.2022, 16:30",45,61,-12%,1%,30%,50%,40%,46%,18%,32%,0,3
+Grupa Azoty ZAKSA Kędzierzyn-Koźle,LUK  Lublin,"04.10.2022, 21:00",59,45,-5%,-3%,43%,56%,59%,42%,47%,21%,3,0
+Jastrzębski Węgiel,Indykpol AZS Olsztyn,"04.10.2022, 18:45",73,68,-7%,-6%,41%,35%,61%,53%,49%,37%,3,1
+Indykpol AZS Olsztyn,GKS Katowice,"08.10.2022, 17:30",61,47,1%,-4%,44%,35%,57%,50%,50%,33%,3,0
+LUK  Lublin,Jastrzębski Węgiel,"07.10.2022, 20:30",66,68,-10%,1%,40%,48%,48%,54%,32%,42%,1,3
+Aluron CMC Warta Zawiercie,Grupa Azoty ZAKSA Kędzierzyn-Koźle,"09.10.2022, 14:45",73,68,-2%,-8%,49%,36%,48%,49%,37%,33%,3,1
+BBTS Bielsko-Biała,Cerrad Enea Czarni Radom,"10.10.2022, 17:30",69,69,-11%,-14%,41%,41%,44%,46%,31%,30%,3,2
+PSG Stal Nysa,PGE Skra Bełchatów,"09.10.2022, 20:30",69,77,-1%,-5%,28%,42%,45%,53%,26%,36%,2,3
+Trefl Gdańsk,Cuprum Lubin,"11.10.2022, 17:30",53,41,2%,-3%,57%,32%,59%,40%,50%,23%,3,0
+Asseco Resovia Rzeszów,Ślepsk Malow Suwałki,"09.10.2022, 17:30",75,58,-2%,-12%,47%,41%,53%,45%,45%,27%,3,1
+Projekt Warszawa,Barkom Każany Lwów,"08.10.2022, 14:45",74,65,-1%,-6%,40%,35%,46%,43%,28%,23%,3,2
+GKS Katowice,Barkom Każany Lwów,"16.10.2022, 17:30",72,65,-13%,-13%,43%,40%,51%,48%,30%,31%,3,2
+Ślepsk Malow Suwałki,Projekt Warszawa,"15.10.2022, 17:30",74,65,-6%,-11%,52%,54%,48%,44%,37%,26%,3,1
+Cuprum Lubin,Asseco Resovia Rzeszów,"15.10.2022, 20:30",50,50,-17%,0%,32%,52%,48%,60%,30%,46%,0,3
+PGE Skra Bełchatów,Trefl Gdańsk,"15.10.2022, 14:45",65,62,-4%,-9%,42%,53%,50%,45%,36%,29%,3,1
+Cerrad Enea Czarni Radom,PSG Stal Nysa,"14.10.2022, 20:30",71,69,-3%,-6%,47%,33%,47%,51%,27%,38%,1,3
+Grupa Azoty ZAKSA Kędzierzyn-Koźle,BBTS Bielsko-Biała,"13.10.2022, 17:30",53,48,0%,-4%,48%,34%,56%,44%,49%,21%,3,0
+Jastrzębski Węgiel,Aluron CMC Warta Zawiercie,"16.10.2022, 14:45",57,43,2%,-11%,51%,33%,54%,41%,39%,28%,3,0
+Indykpol AZS Olsztyn,LUK  Lublin,"14.10.2022, 17:30",69,52,-10%,-3%,36%,42%,55%,43%,42%,24%,3,1
+LUK  Lublin,GKS Katowice,"22.10.2022, 20:30",69,80,-9%,-12%,57%,38%,50%,64%,36%,54%,2,3
+Aluron CMC Warta Zawiercie,Indykpol AZS Olsztyn,"22.10.2022, 17:30",69,75,-12%,-14%,44%,43%,49%,50%,35%,35%,2,3
+BBTS Bielsko-Biała,Jastrzębski Węgiel,"21.10.2022, 17:30",39,61,-10%,0%,34%,54%,42%,55%,30%,45%,0,3
+PSG Stal Nysa,Grupa Azoty ZAKSA Kędzierzyn-Koźle,"21.10.2022, 20:30",51,41,-10%,-24%,47%,45%,50%,45%,35%,21%,3,0
+Trefl Gdańsk,Cerrad Enea Czarni Radom,"24.10.2022, 17:30",54,45,-4%,-9%,47%,50%,41%,36%,26%,15%,3,0
+PGE Skra Bełchatów,Asseco Resovia Rzeszów,"22.10.2022, 14:45",78,74,-1%,3%,35%,37%,53%,50%,42%,41%,2,3
+Projekt Warszawa,Cuprum Lubin,"23.10.2022, 17:30",66,62,-6%,-16%,41%,42%,50%,43%,38%,24%,3,1
+Barkom Każany Lwów,Ślepsk Malow Suwałki,"23.10.2022, 14:45",60,66,-12%,-2%,42%,31%,46%,52%,29%,39%,1,3
+GKS Katowice,Ślepsk Malow Suwałki,"28.10.2022, 17:30",76,65,-9%,-10%,46%,53%,47%,41%,32%,25%,3,2
+Cuprum Lubin,Barkom Każany Lwów,"28.10.2022, 20:30",79,60,0%,-13%,40%,37%,54%,50%,44%,40%,3,2
+PGE Skra Bełchatów,Projekt Warszawa,"29.10.2022, 14:45",37,56,-9%,1%,32%,45%,45%,60%,20%,48%,0,3
+Cerrad Enea Czarni Radom,Asseco Resovia Rzeszów,"29.10.2022, 20:30",42,50,-20%,-2%,41%,52%,40%,51%,17%,30%,0,3
+Grupa Azoty ZAKSA Kędzierzyn-Koźle,Trefl Gdańsk,"30.10.2022, 14:45",50,44,0%,-15%,47%,46%,50%,41%,37%,16%,3,0
+PSG Stal Nysa,Jastrzębski Węgiel,"30.10.2022, 17:30",36,55,-16%,-4%,38%,45%,45%,56%,33%,51%,0,3
+Indykpol AZS Olsztyn,BBTS Bielsko-Biała,"29.10.2022, 17:30",53,33,4%,-13%,42%,35%,67%,40%,57%,17%,3,0
+LUK  Lublin,Aluron CMC Warta Zawiercie,"30.10.2022, 20:30",83,64,-12%,-2%,52%,37%,48%,43%,29%,21%,2,3
+Aluron CMC Warta Zawiercie,GKS Katowice,"03.11.2022, 16:30",59,44,-10%,-16%,52%,37%,53%,44%,45%,32%,3,0
+BBTS Bielsko-Biała,LUK  Lublin,"03.11.2022, 18:45",70,76,-9%,-6%,46%,42%,51%,53%,39%,41%,1,3
+PSG Stal Nysa,Indykpol AZS Olsztyn,"02.11.2022, 16:30",57,43,-6%,-8%,46%,36%,56%,46%,47%,25%,3,0
+Trefl Gdańsk,Jastrzębski Węgiel,"02.11.2022, 18:45",39,54,-10%,1%,41%,47%,42%,48%,22%,41%,0,3
+Asseco Resovia Rzeszów,Grupa Azoty ZAKSA Kędzierzyn-Koźle,"02.11.2022, 21:00",63,51,-2%,-1%,50%,30%,54%,48%,37%,25%,3,0
+Projekt Warszawa,Cerrad Enea Czarni Radom,"01.11.2022, 21:00",50,44,-7%,-10%,51%,60%,52%,39%,37%,22%,3,0
+Barkom Każany Lwów,PGE Skra Bełchatów,"01.11.2022, 18:45",66,82,-9%,-13%,52%,44%,47%,55%,30%,40%,3,2
+Ślepsk Malow Suwałki,Cuprum Lubin,"01.11.2022, 16:30",73,60,-5%,-3%,56%,49%,50%,41%,32%,25%,3,1
+GKS Katowice,Cuprum Lubin,"07.11.2022, 20:30",50,35,-6%,-27%,47%,46%,55%,39%,48%,18%,3,0
+PGE Skra Bełchatów,Ślepsk Malow Suwałki,"04.11.2022, 20:30",47,59,-4%,6%,39%,42%,57%,62%,44%,56%,0,3
+Cerrad Enea Czarni Radom,Barkom Każany Lwów,"05.11.2022, 20:30",34,56,-5%,2%,27%,30%,32%,48%,8%,33%,0,3
+Grupa Azoty ZAKSA Kędzierzyn-Koźle,Projekt Warszawa,"06.11.2022, 14:45",62,71,-9%,-18%,45%,46%,49%,47%,33%,34%,3,1
+Jastrzębski Węgiel,Asseco Resovia Rzeszów,"05.11.2022, 14:45",55,52,-9%,-10%,24%,31%,54%,59%,41%,43%,3,0
+Indykpol AZS Olsztyn,Trefl Gdańsk,"07.11.2022, 17:30",30,55,-12%,-10%,33%,34%,38%,56%,16%,46%,0,3
+LUK  Lublin,PSG Stal Nysa,"06.11.2022, 17:30",75,63,-9%,-5%,41%,36%,52%,48%,36%,31%,3,1
+Aluron CMC Warta Zawiercie,BBTS Bielsko-Biała,"06.11.2022, 20:30",51,46,-1%,-12%,56%,34%,50%,48%,36%,32%,3,0
+BBTS Bielsko-Biała,GKS Katowice,"14.11.2022, 20:30",61,70,-17%,-10%,52%,51%,53%,65%,39%,53%,1,3
+PSG Stal Nysa,Aluron CMC Warta Zawiercie,"13.11.2022, 20:30",41,58,-20%,6%,32%,46%,50%,70%,41%,52%,0,3
+Trefl Gdańsk,LUK  Lublin,"11.11.2022, 17:30",53,40,4%,-10%,47%,50%,55%,43%,43%,22%,3,0
+Asseco Resovia Rzeszów,Indykpol AZS Olsztyn,"12.11.2022, 14:45",66,65,-3%,-4%,34%,32%,51%,49%,42%,28%,3,1
+Projekt Warszawa,Jastrzębski Węgiel,"12.11.2022, 17:30",56,69,-5%,-1%,46%,40%,43%,61%,26%,53%,1,3
+Barkom Każany Lwów,Grupa Azoty ZAKSA Kędzierzyn-Koźle,"13.11.2022, 14:45",75,81,-5%,-9%,46%,42%,44%,51%,29%,39%,2,3
+Ślepsk Malow Suwałki,Cerrad Enea Czarni Radom,"10.11.2022, 20:30",85,86,-5%,-12%,54%,43%,50%,50%,33%,34%,3,2
+Cuprum Lubin,PGE Skra Bełchatów,"13.11.2022, 17:30",79,68,-14%,-16%,53%,30%,48%,45%,31%,27%,3,2
+GKS Katowice,PGE Skra Bełchatów,"19.11.2022, 20:30",50,58,-9%,2%,39%,44%,49%,48%,39%,38%,0,3
+Cerrad Enea Czarni Radom,Cuprum Lubin,"20.11.2022, 17:30",40,55,-8%,0%,32%,53%,45%,53%,21%,38%,0,3
+Grupa Azoty ZAKSA Kędzierzyn-Koźle,Ślepsk Malow Suwałki,"19.11.2022, 17:30",60,53,-6%,-7%,48%,55%,57%,50%,48%,34%,3,0
+Jastrzębski Węgiel,Barkom Każany Lwów,"20.11.2022, 20:30",62,47,0%,-15%,46%,44%,60%,46%,45%,34%,3,0
+Indykpol AZS Olsztyn,Projekt Warszawa,"20.11.2022, 14:45",45,60,-6%,-5%,33%,46%,45%,57%,27%,48%,0,3
+LUK  Lublin,Asseco Resovia Rzeszów,"18.11.2022, 17:30",38,55,-15%,-10%,59%,44%,42%,63%,24%,53%,0,3
+Aluron CMC Warta Zawiercie,Trefl Gdańsk,"19.11.2022, 14:45",51,46,-7%,-22%,46%,45%,48%,51%,36%,44%,3,0
+PSG Stal Nysa,BBTS Bielsko-Biała,"18.11.2022, 20:30",58,32,-16%,-18%,39%,37%,73%,50%,68%,35%,3,0
+PSG Stal Nysa,GKS Katowice,"22.11.2022, 18:30",81,76,-7%,-7%,44%,35%,47%,49%,29%,32%,2,3
+Trefl Gdańsk,BBTS Bielsko-Biała,"22.11.2022, 16:15",47,45,-9%,-12%,55%,39%,51%,43%,39%,23%,3,0
+Asseco Resovia Rzeszów,Aluron CMC Warta Zawiercie,"22.11.2022, 21:00",70,72,-15%,0%,34%,43%,50%,54%,37%,36%,1,3
+Projekt Warszawa,LUK  Lublin,"23.11.2022, 21:00",66,65,-15%,-1%,56%,52%,43%,45%,24%,33%,1,3
+Barkom Każany Lwów,Indykpol AZS Olsztyn,"24.11.2022, 18:30",76,80,-12%,-12%,48%,39%,46%,52%,27%,37%,2,3
+Ślepsk Malow Suwałki,Jastrzębski Węgiel,"24.11.2022, 16:15",42,61,-7%,-8%,50%,63%,55%,61%,32%,50%,0,3
+Cuprum Lubin,Grupa Azoty ZAKSA Kędzierzyn-Koźle,"23.11.2022, 18:30",35,48,-27%,-8%,55%,35%,31%,54%,6%,41%,0,3
+PGE Skra Bełchatów,Cerrad Enea Czarni Radom,"23.11.2022, 16:15",54,34,8%,-20%,46%,42%,59%,45%,46%,26%,3,0
+GKS Katowice,Cerrad Enea Czarni Radom,"19.10.2022, 17:30",45,53,-12%,-7%,40%,37%,45%,50%,25%,34%,0,3
+PGE Skra Bełchatów,Grupa Azoty ZAKSA Kędzierzyn-Koźle,"26.11.2022, 14:45",73,72,-4%,-9%,36%,51%,56%,48%,40%,33%,2,3
+Jastrzębski Węgiel,Cuprum Lubin,"26.11.2022, 17:30",55,63,-18%,-20%,46%,50%,50%,54%,26%,38%,1,3
+Indykpol AZS Olsztyn,Ślepsk Malow Suwałki,"28.11.2022, 17:30",84,73,-16%,-11%,55%,43%,54%,57%,44%,50%,2,3
+LUK  Lublin,Barkom Każany Lwów,"26.11.2022, 20:30",71,82,0%,-16%,37%,39%,42%,44%,25%,28%,3,2
+Aluron CMC Warta Zawiercie,Projekt Warszawa,"27.11.2022, 14:45",49,51,2%,-28%,56%,39%,57%,61%,40%,48%,3,0
+BBTS Bielsko-Biała,Asseco Resovia Rzeszów,"27.11.2022, 17:30",38,51,-19%,-8%,40%,52%,36%,54%,25%,42%,0,3
+PSG Stal Nysa,Trefl Gdańsk,"25.11.2022, 20:30",60,70,-4%,-3%,39%,35%,44%,63%,28%,48%,1,3
+Trefl Gdańsk,GKS Katowice,"05.12.2022, 17:30",76,60,-12%,-3%,49%,36%,54%,47%,41%,33%,3,1
+Asseco Resovia Rzeszów,PSG Stal Nysa,"01.12.2022, 17:30",53,40,0%,-23%,35%,26%,54%,42%,45%,25%,3,0
+Projekt Warszawa,BBTS Bielsko-Biała,"02.12.2022, 20:30",61,32,-1%,-5%,52%,45%,64%,35%,54%,17%,3,0
+Barkom Każany Lwów,Aluron CMC Warta Zawiercie,"04.12.2022, 17:30",46,48,-13%,-9%,42%,43%,45%,51%,34%,39%,0,3
+Ślepsk Malow Suwałki,LUK  Lublin,"03.12.2022, 17:30",73,86,0%,0%,49%,41%,47%,53%,33%,39%,2,3
+Indykpol AZS Olsztyn,Cuprum Lubin,"03.12.2022, 20:30",48,43,-13%,-20%,52%,54%,52%,46%,38%,22%,3,0
+PGE Skra Bełchatów,Jastrzębski Węgiel,"03.12.2022, 14:45",79,78,-5%,-1%,31%,49%,50%,50%,34%,29%,3,2
+Grupa Azoty ZAKSA Kędzierzyn-Koźle,Cerrad Enea Czarni Radom,"04.12.2022, 14:45",76,80,-11%,-10%,33%,35%,53%,46%,41%,29%,3,2
+GKS Katowice,Grupa Azoty ZAKSA Kędzierzyn-Koźle,"08.12.2022, 16:15",62,73,-15%,-6%,45%,51%,46%,50%,27%,42%,1,3
+Jastrzębski Węgiel,Cerrad Enea Czarni Radom,"06.12.2022, 21:00",55,41,-2%,-16%,46%,33%,54%,41%,34%,22%,3,0
+Indykpol AZS Olsztyn,PGE Skra Bełchatów,"07.12.2022, 16:15",74,55,-13%,-14%,54%,46%,48%,37%,34%,21%,3,1
+LUK  Lublin,Cuprum Lubin,"07.12.2022, 18:30",51,49,1%,-13%,38%,43%,50%,51%,36%,30%,3,0
+Aluron CMC Warta Zawiercie,Ślepsk Malow Suwałki,"06.12.2022, 18:30",46,32,1%,-29%,51%,40%,54%,42%,45%,19%,3,0
+BBTS Bielsko-Biała,Barkom Każany Lwów,"07.12.2022, 21:00",47,62,-10%,-3%,28%,45%,43%,60%,26%,51%,0,3
+PSG Stal Nysa,Projekt Warszawa,"06.12.2022, 16:15",59,67,-9%,-8%,42%,40%,52%,59%,30%,48%,1,3
+Trefl Gdańsk,Asseco Resovia Rzeszów,"08.12.2022, 18:30",74,74,-11%,-12%,51%,34%,42%,50%,26%,32%,2,3
+Asseco Resovia Rzeszów,GKS Katowice,"12.12.2022, 17:30",58,42,-12%,-9%,39%,35%,64%,55%,56%,36%,3,0
+Projekt Warszawa,Trefl Gdańsk,"11.12.2022, 17:30",61,48,1%,-10%,49%,50%,51%,45%,45%,32%,3,0
+Barkom Każany Lwów,PSG Stal Nysa,"13.12.2022, 20:30",47,58,-17%,-10%,41%,38%,39%,43%,14%,26%,1,3
+Ślepsk Malow Suwałki,BBTS Bielsko-Biała,"12.12.2022, 20:30",46,37,-9%,-19%,57%,40%,40%,32%,25%,3%,3,0
+Cuprum Lubin,Aluron CMC Warta Zawiercie,"10.12.2022, 17:30",69,72,-13%,-6%,53%,50%,42%,51%,23%,33%,1,3
+PGE Skra Bełchatów,LUK  Lublin,"10.12.2022, 14:45",50,43,4%,-16%,40%,37%,55%,46%,40%,21%,3,0
+Cerrad Enea Czarni Radom,Indykpol AZS Olsztyn,"10.12.2022, 20:30",47,51,-18%,4%,38%,52%,43%,52%,28%,43%,0,3
+Jastrzębski Węgiel,Grupa Azoty ZAKSA Kędzierzyn-Koźle,"11.12.2022, 14:45",75,75,-14%,-14%,52%,40%,43%,49%,28%,34%,2,3
+GKS Katowice,Jastrzębski Węgiel,"17.12.2022, 20:30",43,49,-27%,-2%,58%,62%,56%,54%,36%,42%,0,3
+Grupa Azoty ZAKSA Kędzierzyn-Koźle,Indykpol AZS Olsztyn,"17.12.2022, 17:30",68,81,0%,-7%,38%,45%,46%,47%,32%,34%,2,3
+Cerrad Enea Czarni Radom,LUK  Lublin,"16.12.2022, 20:30",76,77,-9%,-2%,53%,48%,41%,45%,29%,35%,2,3
+PGE Skra Bełchatów,Aluron CMC Warta Zawiercie,"17.12.2022, 14:45",79,82,-9%,-10%,39%,48%,51%,49%,35%,33%,2,3
+Cuprum Lubin,BBTS Bielsko-Biała,"15.12.2022, 17:30",69,60,-1%,-3%,38%,39%,54%,41%,44%,24%,3,1
+Ślepsk Malow Suwałki,PSG Stal Nysa,"16.12.2022, 17:30",40,57,-12%,-9%,47%,52%,44%,51%,29%,41%,0,3
+Barkom Każany Lwów,Trefl Gdańsk,"18.12.2022, 20:30",72,80,0%,-4%,34%,48%,47%,54%,35%,44%,2,3
+Projekt Warszawa,Asseco Resovia Rzeszów,"18.12.2022, 13:00",34,59,0%,2%,47%,47%,32%,63%,12%,53%,0,3
+Projekt Warszawa,GKS Katowice,"21.12.2022, 21:00",56,33,-12%,-5%,50%,55%,55%,33%,43%,10%,3,0
+Asseco Resovia Rzeszów,Barkom Każany Lwów,"23.12.2022, 17:30",75,57,-4%,-10%,45%,30%,58%,44%,49%,28%,3,1
+Trefl Gdańsk,Ślepsk Malow Suwałki,"22.12.2022, 18:30",79,76,-2%,-17%,55%,31%,53%,51%,42%,40%,3,2
+PSG Stal Nysa,Cuprum Lubin,"21.12.2022, 18:30",53,45,-2%,-9%,46%,31%,60%,52%,53%,32%,3,0
+BBTS Bielsko-Biała,PGE Skra Bełchatów,"22.12.2022, 16:15",80,75,-6%,-3%,47%,42%,45%,50%,25%,35%,2,3
+Aluron CMC Warta Zawiercie,Cerrad Enea Czarni Radom,"20.12.2022, 17:30",56,43,-10%,-3%,47%,46%,64%,49%,54%,30%,3,0
+LUK  Lublin,Grupa Azoty ZAKSA Kędzierzyn-Koźle,"20.12.2022, 20:30",82,95,-6%,-10%,42%,46%,48%,50%,32%,36%,3,2
+Indykpol AZS Olsztyn,Jastrzębski Węgiel,"21.12.2022, 16:15",75,65,-3%,-6%,42%,41%,53%,53%,42%,34%,3,1
+GKS Katowice,Indykpol AZS Olsztyn,"17.01.2023, 20:30",64,83,-7%,-5%,44%,48%,47%,53%,33%,40%,1,3
+Jastrzębski Węgiel,LUK  Lublin,"29.12.2022, 16:15",87,82,-10%,-2%,45%,47%,50%,58%,34%,43%,2,3
+Grupa Azoty ZAKSA Kędzierzyn-Koźle,Aluron CMC Warta Zawiercie,"30.12.2022, 17:30",67,68,-3%,1%,48%,55%,50%,45%,33%,24%,3,1
+Cerrad Enea Czarni Radom,BBTS Bielsko-Biała,"28.12.2022, 17:30",76,75,-6%,-2%,54%,27%,46%,46%,30%,32%,2,3
+PGE Skra Bełchatów,PSG Stal Nysa,"30.12.2022, 20:30",72,75,-2%,-6%,44%,39%,48%,50%,30%,36%,2,3
+Cuprum Lubin,Trefl Gdańsk,"08.03.2023, 17:30",68,77,-15%,-15%,43%,39%,51%,62%,34%,43%,2,3
+Ślepsk Malow Suwałki,Asseco Resovia Rzeszów,"03.01.2023, 17:30",65,78,1%,-11%,53%,45%,48%,63%,34%,52%,1,3
+Barkom Każany Lwów,Projekt Warszawa,"28.12.2022, 20:30",40,55,-4%,-6%,40%,41%,44%,57%,22%,47%,0,3
+Barkom Każany Lwów,GKS Katowice,"09.01.2023, 17:30",63,49,-6%,-7%,39%,38%,54%,46%,46%,29%,3,0
+Projekt Warszawa,Ślepsk Malow Suwałki,"07.01.2023, 20:30",67,36,-13%,-5%,45%,43%,63%,42%,53%,24%,3,0
+Asseco Resovia Rzeszów,Cuprum Lubin,"08.01.2023, 20:30",70,77,-3%,-23%,38%,44%,44%,53%,20%,34%,2,3
+Trefl Gdańsk,PGE Skra Bełchatów,"07.01.2023, 17:30",67,56,2%,-13%,45%,32%,54%,45%,43%,24%,3,1
+PSG Stal Nysa,Cerrad Enea Czarni Radom,"08.01.2023, 17:30",69,60,-19%,-9%,33%,47%,56%,48%,43%,32%,3,1
+BBTS Bielsko-Biała,Grupa Azoty ZAKSA Kędzierzyn-Koźle,"06.01.2023, 20:30",47,54,-10%,-4%,39%,50%,38%,46%,20%,30%,0,3
+Aluron CMC Warta Zawiercie,Jastrzębski Węgiel,"06.01.2023, 17:30",73,75,-12%,-17%,55%,36%,48%,51%,36%,32%,3,2
+LUK  Lublin,Indykpol AZS Olsztyn,"07.01.2023, 14:45",69,65,-2%,-14%,49%,47%,48%,45%,32%,30%,3,1
+GKS Katowice,LUK  Lublin,"13.01.2023, 20:30",43,54,-14%,-2%,43%,46%,44%,56%,27%,43%,0,3
+Indykpol AZS Olsztyn,Aluron CMC Warta Zawiercie,"14.01.2023, 14:45",62,44,-5%,-4%,40%,43%,54%,41%,39%,25%,3,0
+Jastrzębski Węgiel,BBTS Bielsko-Biała,"15.01.2023, 20:30",49,32,-8%,-15%,56%,37%,50%,36%,33%,20%,3,0
+Grupa Azoty ZAKSA Kędzierzyn-Koźle,PSG Stal Nysa,"16.01.2023, 20:30",51,46,6%,-19%,52%,38%,50%,42%,33%,31%,3,0
+Cerrad Enea Czarni Radom,Trefl Gdańsk,"15.01.2023, 17:30",67,67,-15%,-9%,46%,46%,48%,50%,33%,32%,1,3
+Asseco Resovia Rzeszów,PGE Skra Bełchatów,"15.01.2023, 14:45",53,35,-10%,-20%,28%,30%,65%,48%,60%,25%,3,0
+Cuprum Lubin,Projekt Warszawa,"16.01.2023, 17:30",41,54,-6%,1%,43%,37%,46%,54%,25%,41%,0,3
+Ślepsk Malow Suwałki,Barkom Każany Lwów,"14.01.2023, 20:30",53,39,-1%,-12%,55%,39%,60%,45%,46%,22%,3,0
+Ślepsk Malow Suwałki,GKS Katowice,"22.01.2023, 17:30",48,36,-8%,-27%,52%,48%,48%,41%,40%,24%,3,0
+Barkom Każany Lwów,Cuprum Lubin,"21.01.2023, 17:30",77,68,-7%,-14%,46%,38%,43%,42%,24%,26%,3,1
+Projekt Warszawa,PGE Skra Bełchatów,"22.01.2023, 14:45",78,87,-6%,-12%,42%,48%,51%,53%,37%,37%,3,2
+Asseco Resovia Rzeszów,Cerrad Enea Czarni Radom,"20.01.2023, 20:30",46,43,-12%,-27%,44%,45%,50%,45%,34%,25%,3,0
+Trefl Gdańsk,Grupa Azoty ZAKSA Kędzierzyn-Koźle,"19.01.2023, 17:30",78,59,-2%,-8%,56%,32%,49%,53%,33%,39%,3,1
+Jastrzębski Węgiel,PSG Stal Nysa,"22.01.2023, 20:30",72,58,-10%,-19%,50%,37%,50%,44%,36%,28%,3,1
+BBTS Bielsko-Biała,Indykpol AZS Olsztyn,"20.01.2023, 17:30",56,68,-9%,-6%,48%,47%,44%,51%,22%,42%,1,3
+Aluron CMC Warta Zawiercie,LUK  Lublin,"21.01.2023, 14:45",69,57,0%,-7%,40%,40%,56%,53%,40%,34%,3,1
+GKS Katowice,Aluron CMC Warta Zawiercie,"28.01.2023, 20:30",59,50,1%,-10%,36%,43%,54%,52%,45%,38%,3,0
+LUK  Lublin,BBTS Bielsko-Biała,"29.01.2023, 14:45",64,49,5%,-18%,45%,28%,45%,36%,26%,14%,3,1
+Indykpol AZS Olsztyn,PSG Stal Nysa,"27.01.2023, 17:30",76,59,-6%,-12%,52%,40%,54%,51%,45%,38%,3,1
+Jastrzębski Węgiel,Trefl Gdańsk,"28.01.2023, 17:30",57,50,-3%,-27%,50%,42%,47%,43%,31%,29%,3,0
+Grupa Azoty ZAKSA Kędzierzyn-Koźle,Asseco Resovia Rzeszów,"28.01.2023, 14:45",61,62,-4%,-17%,38%,38%,47%,48%,29%,31%,3,1
+Cerrad Enea Czarni Radom,Projekt Warszawa,"30.01.2023, 20:30",35,53,-22%,-11%,50%,61%,47%,75%,23%,69%,0,3
+PGE Skra Bełchatów,Barkom Każany Lwów,"29.01.2023, 20:30",54,53,-10%,-1%,42%,26%,51%,53%,32%,45%,0,3
+Cuprum Lubin,Ślepsk Malow Suwałki,"30.01.2023, 17:30",74,71,-10%,-11%,58%,41%,53%,51%,36%,35%,3,2
+Cuprum Lubin,GKS Katowice,"06.02.2023, 20:30",41,51,-19%,0%,55%,48%,46%,55%,20%,50%,0,3
+Ślepsk Malow Suwałki,PGE Skra Bełchatów,"05.02.2023, 14:45",56,54,-1%,-8%,50%,37%,58%,58%,49%,44%,3,0
+Barkom Każany Lwów,Cerrad Enea Czarni Radom,"05.02.2023, 17:30",40,49,-16%,-4%,32%,40%,43%,45%,19%,33%,0,3
+Projekt Warszawa,Grupa Azoty ZAKSA Kędzierzyn-Koźle,"04.02.2023, 14:45",70,50,-13%,-2%,36%,45%,47%,34%,30%,6%,3,1
+Asseco Resovia Rzeszów,Jastrzębski Węgiel,"22.03.2023, 17:30",68,67,-16%,-13%,41%,48%,51%,54%,38%,42%,2,3
+Trefl Gdańsk,Indykpol AZS Olsztyn,"24.02.2023, 17:30",49,50,-13%,-15%,48%,38%,50%,50%,38%,32%,3,0
+PSG Stal Nysa,LUK  Lublin,"04.02.2023, 17:30",56,47,0%,-11%,42%,36%,55%,50%,46%,34%,3,0
+BBTS Bielsko-Biała,Aluron CMC Warta Zawiercie,"03.02.2023, 17:30",64,81,-6%,1%,29%,52%,45%,47%,31%,34%,2,3
+GKS Katowice,BBTS Bielsko-Biała,"12.02.2023, 20:30",64,74,-19%,-9%,43%,61%,39%,42%,20%,22%,2,3
+Aluron CMC Warta Zawiercie,PSG Stal Nysa,"12.02.2023, 14:45",51,30,-10%,-20%,59%,28%,65%,38%,54%,11%,3,0
+LUK  Lublin,Trefl Gdańsk,"11.02.2023, 20:30",41,57,-12%,1%,39%,45%,41%,57%,26%,49%,0,3
+Indykpol AZS Olsztyn,Asseco Resovia Rzeszów,"09.02.2023, 17:30",59,77,-5%,-11%,45%,40%,41%,53%,20%,39%,1,3
+Jastrzębski Węgiel,Projekt Warszawa,"11.02.2023, 14:45",66,68,-6%,-6%,41%,39%,52%,60%,38%,50%,1,3
+Grupa Azoty ZAKSA Kędzierzyn-Koźle,Barkom Każany Lwów,"11.02.2023, 17:30",71,42,1%,0%,40%,48%,54%,42%,38%,28%,3,0
+Cerrad Enea Czarni Radom,Ślepsk Malow Suwałki,"10.02.2023, 20:30",50,55,-18%,3%,42%,28%,51%,59%,34%,48%,0,3
+PGE Skra Bełchatów,Cuprum Lubin,"12.02.2023, 17:30",79,80,-6%,-11%,41%,37%,59%,51%,40%,36%,2,3
+PGE Skra Bełchatów,GKS Katowice,"20.02.2023, 20:30",70,87,-8%,-9%,53%,43%,47%,49%,28%,33%,2,3
+Cuprum Lubin,Cerrad Enea Czarni Radom,"18.02.2023, 17:30",72,61,-9%,-16%,49%,40%,53%,43%,33%,30%,3,2
+Ślepsk Malow Suwałki,Grupa Azoty ZAKSA Kędzierzyn-Koźle,"21.03.2023, 17:30",67,75,-4%,-3%,46%,52%,49%,54%,32%,45%,1,3
+Barkom Każany Lwów,Jastrzębski Węgiel,"18.02.2023, 20:30",31,51,-21%,-4%,38%,48%,35%,66%,12%,51%,0,3
+Projekt Warszawa,Indykpol AZS Olsztyn,"19.02.2023, 17:30",67,59,-4%,-12%,47%,42%,61%,47%,49%,32%,3,1
+Asseco Resovia Rzeszów,LUK  Lublin,"18.02.2023, 14:45",76,57,-10%,-14%,47%,34%,57%,51%,43%,35%,3,1
+Trefl Gdańsk,Aluron CMC Warta Zawiercie,"19.02.2023, 14:45",60,66,-17%,-7%,45%,39%,44%,50%,26%,39%,1,3
+BBTS Bielsko-Biała,PSG Stal Nysa,"17.02.2023, 20:30",35,61,-10%,0%,53%,34%,43%,64%,23%,52%,0,3
+GKS Katowice,PSG Stal Nysa,"06.03.2023, 20:30",56,37,6%,-15%,40%,40%,53%,41%,43%,29%,3,0
+BBTS Bielsko-Biała,Trefl Gdańsk,"02.03.2023, 17:30",56,77,1%,-2%,38%,49%,45%,55%,26%,38%,1,3
+Aluron CMC Warta Zawiercie,Asseco Resovia Rzeszów,"04.03.2023, 14:45",50,40,-2%,-25%,52%,40%,50%,42%,30%,26%,3,0
+LUK  Lublin,Projekt Warszawa,"05.03.2023, 14:45",51,71,-8%,-10%,53%,52%,38%,55%,14%,42%,1,3
+Indykpol AZS Olsztyn,Barkom Każany Lwów,"03.03.2023, 17:30",55,36,-4%,-10%,45%,28%,54%,37%,40%,14%,3,0
+Jastrzębski Węgiel,Ślepsk Malow Suwałki,"04.03.2023, 17:30",74,51,-2%,-7%,40%,34%,75%,53%,68%,33%,3,1
+Grupa Azoty ZAKSA Kędzierzyn-Koźle,Cuprum Lubin,"04.03.2023, 20:30",63,63,-3%,-15%,32%,51%,51%,50%,38%,29%,3,1
+Cerrad Enea Czarni Radom,PGE Skra Bełchatów,"05.03.2023, 17:30",62,61,-4%,0%,42%,32%,41%,45%,17%,25%,1,3
+Cerrad Enea Czarni Radom,GKS Katowice,"11.03.2023, 20:30",44,59,-14%,0%,48%,40%,50%,63%,37%,55%,0,3
+Grupa Azoty ZAKSA Kędzierzyn-Koźle,PGE Skra Bełchatów,"12.03.2023, 14:45",40,54,-16%,-9%,43%,39%,46%,51%,25%,41%,0,3
+Cuprum Lubin,Jastrzębski Węgiel,"11.03.2023, 17:30",53,61,-11%,-8%,45%,45%,45%,54%,25%,33%,0,3
+Ślepsk Malow Suwałki,Indykpol AZS Olsztyn,"10.03.2023, 20:30",48,55,-4%,-4%,32%,43%,46%,47%,25%,36%,0,3
+Barkom Każany Lwów,LUK  Lublin,"13.03.2023, 17:30",51,41,-10%,-14%,49%,45%,49%,42%,32%,17%,3,0
+Projekt Warszawa,Aluron CMC Warta Zawiercie,"11.03.2023, 14:45",90,87,-13%,-11%,46%,56%,49%,43%,40%,26%,3,2
+Asseco Resovia Rzeszów,BBTS Bielsko-Biała,"13.03.2023, 20:30",60,42,-3%,-6%,40%,27%,56%,40%,41%,23%,3,0
+Trefl Gdańsk,PSG Stal Nysa,"12.03.2023, 17:30",48,35,-8%,-15%,47%,32%,69%,48%,66%,30%,3,0
+GKS Katowice,Trefl Gdańsk,"16.03.2023, 17:30",44,54,-18%,-1%,44%,58%,49%,52%,32%,39%,0,3
+PSG Stal Nysa,Asseco Resovia Rzeszów,"17.03.2023, 17:30",65,74,-6%,3%,28%,35%,43%,55%,29%,41%,1,3
+BBTS Bielsko-Biała,Projekt Warszawa,"20.03.2023, 17:30",49,65,-11%,-5%,38%,50%,42%,52%,21%,37%,1,3
+Aluron CMC Warta Zawiercie,Barkom Każany Lwów,"18.03.2023, 20:30",64,53,8%,-14%,54%,29%,56%,44%,37%,24%,3,1
+LUK  Lublin,Ślepsk Malow Suwałki,"18.03.2023, 14:45",72,72,0%,-14%,40%,36%,56%,54%,45%,42%,3,1
+Cuprum Lubin,Indykpol AZS Olsztyn,"20.03.2023, 20:30",78,76,-13%,-6%,41%,45%,47%,49%,32%,38%,2,3
+Jastrzębski Węgiel,PGE Skra Bełchatów,"19.03.2023, 20:30",81,76,-10%,0%,53%,42%,56%,51%,45%,33%,2,3
+Cerrad Enea Czarni Radom,Grupa Azoty ZAKSA Kędzierzyn-Koźle,"19.03.2023, 17:30",63,70,-8%,-3%,55%,39%,43%,51%,27%,38%,1,3
+Grupa Azoty ZAKSA Kędzierzyn-Koźle,GKS Katowice,"26.03.2023, 17:30",57,34,2%,-18%,53%,45%,52%,35%,35%,14%,3,0
+Cerrad Enea Czarni Radom,Jastrzębski Węgiel,"25.03.2023, 17:30",39,50,-20%,2%,39%,37%,49%,58%,29%,48%,0,3
+PGE Skra Bełchatów,Indykpol AZS Olsztyn,"27.03.2023, 20:30",40,60,-12%,-4%,33%,30%,59%,58%,45%,50%,0,3
+Cuprum Lubin,LUK  Lublin,"25.03.2023, 20:30",73,75,-5%,5%,44%,44%,49%,50%,31%,37%,1,3
+Ślepsk Malow Suwałki,Aluron CMC Warta Zawiercie,"25.03.2023, 14:45",52,78,-8%,-8%,61%,53%,49%,59%,35%,51%,1,3
+Barkom Każany Lwów,BBTS Bielsko-Biała,"23.03.2023, 20:30",58,52,-7%,-17%,38%,32%,47%,50%,32%,31%,3,1
+Projekt Warszawa,PSG Stal Nysa,"26.03.2023, 20:30",77,68,2%,-10%,46%,26%,53%,55%,35%,36%,3,2
+Asseco Resovia Rzeszów,Trefl Gdańsk,"26.03.2023, 14:45",75,67,-7%,-14%,42%,40%,52%,47%,42%,33%,3,1
+GKS Katowice,Asseco Resovia Rzeszów,"31.03.2023, 20:30",42,50,-24%,-8%,40%,52%,49%,59%,35%,48%,0,3
+Trefl Gdańsk,Projekt Warszawa,"02.04.2023, 18:00",79,76,-6%,-6%,40%,38%,50%,53%,37%,40%,3,2
+PSG Stal Nysa,Barkom Każany Lwów,"24.02.2023, 20:30",59,46,-2%,-1%,28%,34%,52%,50%,42%,31%,3,0
+BBTS Bielsko-Biała,Ślepsk Malow Suwałki,"03.04.2023, 17:30",33,44,-23%,-1%,40%,55%,50%,61%,25%,52%,0,3
+Aluron CMC Warta Zawiercie,Cuprum Lubin,"31.03.2023, 17:30",72,77,-2%,-17%,52%,53%,58%,56%,45%,40%,3,2
+LUK  Lublin,PGE Skra Bełchatów,"03.04.2023, 20:30",51,45,2%,-18%,52%,46%,47%,50%,32%,28%,3,0
+Indykpol AZS Olsztyn,Cerrad Enea Czarni Radom,"02.04.2023, 20:30",71,58,4%,-12%,48%,42%,54%,48%,45%,32%,3,1
+Grupa Azoty ZAKSA Kędzierzyn-Koźle,Jastrzębski Węgiel,"01.04.2023, 20:30",67,62,-12%,-16%,55%,47%,47%,45%,33%,29%,3,1
