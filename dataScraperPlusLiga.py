@@ -1,3 +1,4 @@
+#Note: This file no longer works due to changes made in the official PlusLiga website.
 #Import dependencies
 from bs4 import BeautifulSoup
 import requests
