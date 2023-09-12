@@ -1,5 +1,5 @@
 # Volleyball Winning Team Prediction: Project Overview
-* Created a model to predict the winning team of a PlusLiga (Polish Volleyball League) 2023 playoff match
+* Created a model to predict the winning team of PlusLiga (Polish Volleyball League) 2023 playoff matches
 * Used BeautifulSoup to scrape over 250 matches
   * A match is defined as a best of 5 between two teams here
 * Constructed nonlinear features such as date and team name, as well as linear features like Rolling Avg Serve Efficiency % and Rolling Avg Score
