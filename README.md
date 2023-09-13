@@ -1,5 +1,5 @@
 # Volleyball Winning Team Prediction: Project Overview
-* Created a model to predict the winning team of PlusLiga (Polish Volleyball League) 2023 playoff matches
+* Created a model to predict the winning team of a PlusLiga (Polish Volleyball League) 2023 playoff match
 * Used BeautifulSoup to scrape over 250 matches
   * A match is defined as a best of 5 between two teams here
 * Constructed nonlinear features such as date and team name, as well as linear features like Rolling Avg Serve Efficiency % and Rolling Avg Score
@@ -41,6 +41,8 @@ To make the data easier to use, the following changes were applied on the raw da
 * Creating a unique ID for each Team 1. So that we would be working with an integer to represent Team 1
 * Creating our target variable, Team1Dub, which took the value of 1 when Team 1 won and 0 when they lost.
 # EDA
+First, I created a box plot for scores and points. Out of my linear features, these were the only ones that weren't percentages. I wanted to make sure there weren't too many outliers so that I could then apply min max scaling.
+![alt text](https://github.com/davidpaylan/Volleyball-Winning-Team-Prediction/blob/main/Boxplot%20Features.png?raw=true)
 I decided to use a bar graph to see the correlation between each of the linear variables and the target variable Team1Dub.
 ![alt text](https://github.com/davidpaylan/Volleyball-Winning-Team-Prediction/blob/main/Lin%20vs%20Correlation.png?raw=true)
 I also did this for the nonlinear variables. This showed me the importance of the nonlinear variables here, mainly the name of Team 1
