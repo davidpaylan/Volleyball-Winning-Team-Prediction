@@ -43,6 +43,7 @@ To make the data easier to use, the following changes were applied on the raw da
 # EDA
 First, I created a box plot for scores and points. Out of my linear features, these were the only ones that weren't percentages. I wanted to make sure there weren't too many outliers so that I could then apply min max scaling.
 ![alt text](https://github.com/davidpaylan/Volleyball-Winning-Team-Prediction/blob/main/Boxplot%20Features.png?raw=true)
+![alt text](https://github.com/davidpaylan/Volleyball-Winning-Team-Prediction/blob/main/Boxplot%20features%202.png?raw=true)
 I decided to use a bar graph to see the correlation between each of the linear variables and the target variable Team1Dub.
 ![alt text](https://github.com/davidpaylan/Volleyball-Winning-Team-Prediction/blob/main/Lin%20vs%20Correlation.png?raw=true)
 I also did this for the nonlinear variables. This showed me the importance of the nonlinear variables here, mainly the name of Team 1
